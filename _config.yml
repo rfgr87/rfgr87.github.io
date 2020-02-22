@@ -1,11 +1,11 @@
 # Site settings
-author: Roy F Guzman Rodriguez
-title: 
+author: Roy
+title: Why did I decided to study Software Engineering?
 header-img: img/home-bg.png
 email: royguzrod@gmail.com
-copyright_name: Roy F Guzman Rodriguez
+copyright_name: Roy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reasons to study Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rfgr87
